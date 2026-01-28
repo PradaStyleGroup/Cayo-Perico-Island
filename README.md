@@ -1,16 +1,23 @@
 # Cayo-Perico-Island
 
-Um ajuste completo realizado na Ilha de Cayo Perico. Pensando em uma melhor performance e aprimoramento para servidores que gostam de usufluir deste Mapa.
+A complete adjustment has been made to Cayo Perico Island. This was done with the aim of improving performance and enhancing the experience for servers that enjoy using this map.
 
-Conteudos presentes ao recurso;
+Content available in the resource;
 
-- Codigo IPL necessario para ativação da ilha corretamente.
-- Mapa visual para todos do servidor com Lod's.
-- Porta do galpão central ajustada. [Removido porta com Limbo]
-- Aguas carregada corretamente sem exceção de ondas por cima da ilha.
+- IPL code required for correct island activation.
+- Visual map for all server users with LODs.
+- Central warehouse door adjusted. [Removed door with Limbo]
+- Water correctly loaded without exception of waves over the island.
 
-# IMPORTANTE
+# IMPORTANT
 
-Caso você possua os IPL da ilha sendo carregado no arquivo iplloader.lua em sua base, basta remover o codigo completo da ilha e manter apenas o recurso do donwload.
+If you have the island's IPL being loaded in the iplloader.lua file in your database, simply remove the entire island code and keep only the download resource.
 
-  
+# MAP LOD 
+<img width="1240" height="801" alt="mapisland" src="https://github.com/user-attachments/assets/00f20e58-5cd2-4cb5-95a3-5a245c22985b" />
+
+# SHED FIX
+<img width="1517" height="794" alt="galpaofixs" src="https://github.com/user-attachments/assets/b7ce6cb0-d03f-4088-a649-9938e29c074e" />
+
+# WAVES FIX
+<img width="1759" height="847" alt="ONDASD" src="https://github.com/user-attachments/assets/ecaa46bc-254d-4127-9a13-66c2e4b517ff" />
